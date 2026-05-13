@@ -1,0 +1,23 @@
+
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+h1 {
+
+    color: rgb(7, 68, 190);
+    font-size: 80px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    color: rgb(3, 181, 178);
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
